@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Northpointe Training LLC</title>
+    <link>/blog/</link>
+    <description>Recent content in Blogs on Northpointe Training LLC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 13 Jan 2022 21:57:30 -0500</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Second Post</title>
+      <link>/blog/second-post/</link>
+      <pubDate>Thu, 13 Jan 2022 21:57:30 -0500</pubDate>
+      
+      <guid>/blog/second-post/</guid>
+      <description>This is the second post.</description>
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>/blog/first-post/</link>
+      <pubDate>Thu, 13 Jan 2022 21:54:04 -0500</pubDate>
+      
+      <guid>/blog/first-post/</guid>
+      <description>This is the first post.</description>
+    </item>
+    
+  </channel>
+</rss>
