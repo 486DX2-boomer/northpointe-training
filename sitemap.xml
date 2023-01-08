@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>northpointetraining.com/</loc>
+    <loc>/</loc>
   </url><url>
-    <loc>northpointetraining.com/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>northpointetraining.com/services/</loc>
+    <loc>/services/</loc>
   </url><url>
-    <loc>northpointetraining.com/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>
