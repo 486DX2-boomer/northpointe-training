@@ -1,0 +1,10 @@
+#site-head {
+    background-color: rgb(255, 221, 249);
+    background-size: 320px;
+    background-position: top;
+}
+
+.inline-image {
+    width: 200px;
+    padding: 20px;
+}
